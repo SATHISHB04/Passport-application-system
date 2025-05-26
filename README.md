@@ -1,7 +1,7 @@
 # Passport application system
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224040299
+# Name:SATHISH.B
+# Date:26.05.2025
 
 
 # AIM:
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 
 
 
+![image](https://github.com/user-attachments/assets/a1547a71-5d0a-49df-b6f5-782a21aabceb)
 
 
 
@@ -60,6 +61,8 @@ Create detailed charts that…
 
 
 
+![image](https://github.com/user-attachments/assets/d3208450-42fe-4900-8697-20bc168df9eb)
+
 # COMMUNICTION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
@@ -69,6 +72,7 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 
 
+![image](https://github.com/user-attachments/assets/b97f483b-0190-4b81-9cf9-71c1f7bbf7fd)
 # PACKAGE DIAGRAM:
 
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
@@ -80,6 +84,8 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+
+![image](https://github.com/user-attachments/assets/71c287cf-0365-4af7-8eb2-7379a8303733)
 
 
 
@@ -97,6 +103,8 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+
+![image](https://github.com/user-attachments/assets/8753c1eb-8b8b-4173-a649-e22dc15fef8e)
 
 
 
@@ -120,6 +128,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+![image](https://github.com/user-attachments/assets/e3d6cff1-4249-4813-921d-5714a0acbd46)
 
 
 # RESULT
